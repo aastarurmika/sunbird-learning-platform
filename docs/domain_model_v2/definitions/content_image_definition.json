@@ -240,6 +240,8 @@
             "application/vnd.ekstep.plugin-archive",
             "application/vnd.ekstep.h5p-archive",
             "application/epub",
+            "application/html",
+            "application/web-module",
             "text/x-url",
             "video/x-youtube",
             "application/octet-stream",
